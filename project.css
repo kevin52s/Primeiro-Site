@@ -1,0 +1,33 @@
+body {
+    background-color:gray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+h1 {
+    color:darkred;
+    text-decoration:  none;
+}
+.projetos {
+    text-align: center;
+}
+div img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.imgandroid{
+    text-align: center;
+}
+.imgsite{
+    text-align: center;
+}
+h2 {
+    color: black;
+    text-decoration:  none;
+}
